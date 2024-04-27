@@ -1,0 +1,12 @@
+#-----------------------------------------------------------
+# Vivado v2018.1 (64-bit)
+# SW Build 2188600 on Wed Apr  4 18:40:38 MDT 2018
+# IP Build 2185939 on Wed Apr  4 20:55:05 MDT 2018
+# Start of session at: Sat Apr 27 15:18:25 2024
+# Process ID: 5804
+# Current directory: D:/CLP/tp_final/sintesis/TP_Final.runs/ila_synth_1
+# Command line: vivado.exe -log ila.vds -product Vivado -mode batch -messageDb vivado.pb -notrace -source ila.tcl
+# Log file: D:/CLP/tp_final/sintesis/TP_Final.runs/ila_synth_1/ila.vds
+# Journal file: D:/CLP/tp_final/sintesis/TP_Final.runs/ila_synth_1\vivado.jou
+#-----------------------------------------------------------
+source ila.tcl -notrace
