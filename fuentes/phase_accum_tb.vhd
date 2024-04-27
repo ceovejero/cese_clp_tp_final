@@ -49,7 +49,7 @@ architecture phase_accum_tb_arch of phase_accum_tb is
 -----------------------------------------------
 -- Incremento de Fase de 12bits              --
 -----------------------------------------------
-    phase_inc <= X"199";
+    phase_inc <= X"045";
 
 -----------------------------------------------
 -- Inicializacion del Test Bench             --
