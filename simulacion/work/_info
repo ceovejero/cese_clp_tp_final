@@ -1,0 +1,141 @@
+m255
+K3
+13
+cModel Technology
+dC:\CLP\TPF\Proj_Xb\simulacion
+Pparam_package
+w1713960276
+Z0 dD:\CLP\tp_final\simulacion
+8D:/CLP/tp_final/fuentes/param_package.vhd
+FD:/CLP/tp_final/fuentes/param_package.vhd
+l0
+L1
+VW^QWaj>lzCNW1AP1XXYC30
+Z1 OV;C;10.1d;51
+32
+Z2 o-work work -2002 -explicit -O0
+Z3 tExplicit 1
+!s100 H_YGU=5F52E25lgaGLmzV1
+!i10b 1
+!s108 1714221024.129000
+!s90 -reportprogress|300|-work|work|-2002|-explicit|D:/CLP/tp_final/fuentes/param_package.vhd|
+!s107 D:/CLP/tp_final/fuentes/param_package.vhd|
+Ephase_accum
+Z4 w1713956400
+Z5 DPx4 work 13 param_package 0 22 W^QWaj>lzCNW1AP1XXYC30
+Z6 DPx4 ieee 15 std_logic_arith 0 22 4`Y?g_lkdn;7UL9IiJck01
+Z7 DPx3 std 6 textio 0 22 5>J:;AW>W0[[dW0I6EN1Q0
+Z8 DPx4 ieee 14 std_logic_1164 0 22 5=aWaoGZSMWIcH0i^f`XF1
+Z9 dD:\CLP\tp_final\simulacion
+Z10 8D:/CLP/tp_final/fuentes/phase_accum.vhd
+Z11 FD:/CLP/tp_final/fuentes/phase_accum.vhd
+l0
+L8
+V6gR5?m=g`L4DEzZ0ZT1f61
+R1
+32
+Z12 !s108 1714221024.200000
+Z13 !s90 -reportprogress|300|-work|work|-2002|-explicit|D:/CLP/tp_final/fuentes/phase_accum.vhd|
+Z14 !s107 D:/CLP/tp_final/fuentes/phase_accum.vhd|
+R2
+R3
+!s100 H<:Ac_Sm[:0ZJLjL6<JgV2
+!i10b 1
+Aphase_accum_arq
+R5
+R6
+R7
+R8
+DEx4 work 11 phase_accum 0 22 6gR5?m=g`L4DEzZ0ZT1f61
+l46
+L25
+VCgIdJLzFE_nEYCPZaJGX=3
+R1
+32
+R12
+R13
+R14
+R2
+R3
+!s100 lY>25g8JR`GbQI4DKEM7J3
+!i10b 1
+Ephase_accum_tb
+Z15 w1713974403
+R5
+R6
+R7
+R8
+R9
+Z16 8D:/CLP/tp_final/fuentes/phase_accum_tb.vhd
+Z17 FD:/CLP/tp_final/fuentes/phase_accum_tb.vhd
+l0
+L6
+VIf<FhHgTkghX>KJHK^=Tf2
+R1
+32
+Z18 !s108 1714221024.295000
+Z19 !s90 -reportprogress|300|-work|work|-2002|-explicit|D:/CLP/tp_final/fuentes/phase_accum_tb.vhd|
+Z20 !s107 D:/CLP/tp_final/fuentes/phase_accum_tb.vhd|
+R2
+R3
+!s100 lV:^UM=n^g`bj`IiT0L:?2
+!i10b 1
+Aphase_accum_tb_arch
+R5
+R6
+R7
+R8
+DEx4 work 14 phase_accum_tb 0 22 If<FhHgTkghX>KJHK^=Tf2
+l42
+L10
+VRU=Fo9V57:8McmbG`1[6S0
+R1
+32
+R18
+R19
+R20
+R2
+R3
+!s100 ePd:om^nDIFOG=HYT6<6R1
+!i10b 1
+Esine_rom
+Z21 w1713924834
+R5
+R6
+Z22 DPx4 ieee 18 std_logic_unsigned 0 22 RYmj;=TK`k=k>D@Cz`zoB3
+R7
+R8
+R9
+Z23 8D:/CLP/tp_final/fuentes/sine_rom.vhd
+Z24 FD:/CLP/tp_final/fuentes/sine_rom.vhd
+l0
+L8
+VKe02o>C6`6eDC=BLAABJk2
+!s100 jFA6anABHAe9Ch[Gg^];P2
+R1
+32
+!i10b 1
+Z25 !s108 1714221024.367000
+Z26 !s90 -reportprogress|300|-work|work|-2002|-explicit|D:/CLP/tp_final/fuentes/sine_rom.vhd|
+Z27 !s107 D:/CLP/tp_final/fuentes/sine_rom.vhd|
+R2
+R3
+Asine_rom_arq
+R5
+R6
+R22
+R7
+R8
+DEx4 work 8 sine_rom 0 22 Ke02o>C6`6eDC=BLAABJk2
+l543
+L22
+VKX`THYE]:8342Ig7[n<WS3
+!s100 081NA2h=^L=MLUhh^nGPD0
+R1
+32
+!i10b 1
+R25
+R26
+R27
+R2
+R3

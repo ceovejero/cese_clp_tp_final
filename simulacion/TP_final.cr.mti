@@ -1,0 +1,37 @@
+D:/CLP/tp_final/fuentes/sine_rom.vhd {1 {vcom -work work -2002 -explicit D:/CLP/tp_final/fuentes/sine_rom.vhd
+Model Technology ModelSim ALTERA vcom 10.1d Compiler 2012.11 Nov  2 2012
+-- Loading package STANDARD
+-- Loading package TEXTIO
+-- Loading package std_logic_1164
+-- Loading package std_logic_arith
+-- Loading package STD_LOGIC_UNSIGNED
+-- Loading package param_package
+-- Compiling entity sine_rom
+-- Compiling architecture sine_rom_arq of sine_rom
+
+} {} {}} D:/CLP/tp_final/fuentes/param_package.vhd {1 {vcom -work work -2002 -explicit D:/CLP/tp_final/fuentes/param_package.vhd
+Model Technology ModelSim ALTERA vcom 10.1d Compiler 2012.11 Nov  2 2012
+-- Loading package STANDARD
+-- Compiling package param_package
+
+} {} {}} D:/CLP/tp_final/fuentes/phase_accum.vhd {1 {vcom -work work -2002 -explicit D:/CLP/tp_final/fuentes/phase_accum.vhd
+Model Technology ModelSim ALTERA vcom 10.1d Compiler 2012.11 Nov  2 2012
+-- Loading package STANDARD
+-- Loading package TEXTIO
+-- Loading package std_logic_1164
+-- Loading package std_logic_arith
+-- Loading package param_package
+-- Compiling entity phase_accum
+-- Compiling architecture phase_accum_arq of phase_accum
+
+} {} {}} D:/CLP/tp_final/fuentes/phase_accum_tb.vhd {1 {vcom -work work -2002 -explicit D:/CLP/tp_final/fuentes/phase_accum_tb.vhd
+Model Technology ModelSim ALTERA vcom 10.1d Compiler 2012.11 Nov  2 2012
+-- Loading package STANDARD
+-- Loading package TEXTIO
+-- Loading package std_logic_1164
+-- Loading package std_logic_arith
+-- Loading package param_package
+-- Compiling entity phase_accum_tb
+-- Compiling architecture phase_accum_tb_arch of phase_accum_tb
+
+} {} {}}
